@@ -20,6 +20,7 @@
 - Nathan Kandekore
 - Werberger Merton
 - [Lysander Pitu](https://github.com/Lys4nder)
+- [Jose Luis Robledo](https://github.com/Robledogar)
 - [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
 - [Ans B ](https://github.com/quarantineBot)
